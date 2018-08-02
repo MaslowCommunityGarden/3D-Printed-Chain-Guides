@@ -1,5 +1,5 @@
 {
 "ModerationLevel": "communityManaged",
-"Facilitator": "Sean_E",
+"Facilitator": "seanegloff",
 "Category": "maslow"
 }
