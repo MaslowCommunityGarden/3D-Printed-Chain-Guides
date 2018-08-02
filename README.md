@@ -1,3 +1,5 @@
+![alt text](https://github.com/seanegloff/3D-Printed-Chain-Guides/blob/patch-1/IMG_9128.jpg)
+
 # 3D Printed Chain Guides
 
 A 3D printed solution to chain wrapping
